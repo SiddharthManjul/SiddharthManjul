@@ -15,7 +15,13 @@
 - 🌱 I’m currently learning technologies specific to Decentralized field and building a project specific to solve some crucial problems of Web3 and Crypto World such as Payment System and Proper Regulatory Compilance. I am also interested in learning and working on 3D Animations for commercial Web Apps, Dapps and Games.
 
 - 💞️ I’m open for collaboration on Web3 and Blockchain based projects which are scalable in long term.
+  
 - AI also fascinates me especially in Robotics & Automation Department. I like it how it simplifies complex problems related to Industries. Would love to colaborate on projects including multiple techs such as AI, Robotics and Blockchain Application Development.
+
+- Q1 2024 Targets:
+   - iOS Development
+   - Writing Smart Contracts fluently & integrating them with Frontend
+   - Basics of AI ML
 
 - 📫 How to reach me:
   <div id="badges">
