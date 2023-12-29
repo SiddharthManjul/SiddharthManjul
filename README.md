@@ -16,7 +16,7 @@
 
 - 💞️ I’m open for collaboration on Web3 and Blockchain based projects which are scalable in long term.
   
-- AI also fascinates me especially in Robotics & Automation Department. I like it how it simplifies complex problems related to Industries. Would love to colaborate on projects including multiple techs such as AI, Robotics and Blockchain Application Development.
+- AI also fascinates me especially in Robotics & Automation Department. I like how it simplifies complex problems related to Industries. Would love to colaborate on projects including multiple techs such as AI, Robotics and Blockchain Application Development.
 
 - I completed my Bachelor's in Technology with specialization in Mechanical Engineering in 2023 with grade 6.7 GPA.
 
