@@ -12,7 +12,7 @@
 
 - 👀 I’m interested in working with & building projects related to Web3.0, Metaverse, Blockchain, Artificial Intelligence, Game Development and IoT.
   
-- 🌱 I’m currently learning technologies specific to Decentralized field and building a project specific to solve some crucial problems of Web3 and Crypto World such as Payment System and Proper Regulatory Compilance. I am also interested in learning and working on 3D Animations for commercial Web Apps, Dapps and Games.
+- 🌱 I’m currently learning technologies specific to Decentralized field and building projects to solve some crucial problems of Web3 and Crypto World such as Payment System and Proper Regulatory Compilance. I am also interested in learning and working on 3D Animations for commercial Web Apps, Dapps and Games.
 
 - 💞️ I’m open for collaboration on Web3 and Blockchain based projects which are scalable in long term.
   
