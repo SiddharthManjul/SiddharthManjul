@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SiddharthManjul&style=flat-square&color=blue" alt=""/>
-</div>
 
 
 - 👋 Hi there! I am Siddharth Manjul
