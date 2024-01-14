@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
 </div>
 
+<a href="https://git.io/streak-stats"><img src="https://github-profile-trophy.vercel.app/?username=SiddharthManjul" alt="GitHub Trophy" /></a>
+
 
 - 👋 Hi there! I am Siddharth Manjul
   
@@ -71,7 +73,7 @@
 
 - Stats:
   <div>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SiddharthManjul" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthManjul" alt="GitHub Streak" /></a>
     <a href="https://git.io/langs-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthManjul" alt="Most Used Langs" /></a>
 
   </div>
