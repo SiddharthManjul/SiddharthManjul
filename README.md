@@ -2,9 +2,6 @@
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://github-profile-trophy.vercel.app/?username=SiddharthManjul" alt="GitHub Trophy" /></a>
-
-
 - 👋 Hi there! I am Siddharth Manjul
   
 - 🖥️ I'm a Web Developer who can work in both Web2 and Web3 field. I also create 3D Animations using Blender especially but not limited to. I love to meet new people and have some chats with them whether they are from same field or other. My hobbies include Dancing and Sketching.
