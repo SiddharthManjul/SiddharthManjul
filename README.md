@@ -64,7 +64,7 @@
 
 - Stats:
   <div>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SiddharthManjul" alt="GitHub Streak" /></a>
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=SiddharthManjul)](https://git.io/streak-stats)
     <a href="https://git.io/langs-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthManjul" alt="Most Used Langs" /></a>
 
   </div>
