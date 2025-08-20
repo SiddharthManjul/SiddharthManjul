@@ -64,7 +64,6 @@
 
 - Stats:
   <div>
-    <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app/?user=SiddharthManjul" alt="GitHub Streak" /></a>
     <a href="https://git.io/langs-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthManjul" alt="Most Used Langs" /></a>
 
   </div>
