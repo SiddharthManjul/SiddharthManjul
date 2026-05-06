@@ -14,8 +14,6 @@
   
 - AI also fascinates me especially in Robotics & Automation Department. I like how it simplifies complex problems related to Industries. Would love to colaborate on projects including multiple techs such as AI, Robotics and Blockchain Application Development.
 
-- I completed my Bachelor's in Technology with specialization in Mechanical Engineering in 2023 with grade 6.7 GPA.
-
 - 📫 How to reach me:
   <div id="badges">
   <a href="https://www.linkedin.com/in/siddharth-manjul/" target="_blank">
