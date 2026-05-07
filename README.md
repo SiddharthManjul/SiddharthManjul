@@ -20,3 +20,40 @@ focus:       AI · ZK cryptography · Privacy infra · Capital matching
 building:    Norvyx Capital · Genshi Framework
 based-in:    Bangalore, India
 ```
+
+## Currently Building
+ 
+<table>
+<tr>
+<td width="50%" valign="top">
+<strong>💎 Norvyx Capital-</strong>
+Two-sided matching for capital
+Connecting founders to grants, accelerators, and investors that actually fit. Anchored by **Saturn** — a smart matching algorithm trained on current data, historical patterns, and behavioral signals.
+ 
+`Founder`
+ 
+</td>
+<td width="50%" valign="top">
+<strong>📜 Norvyx Proposals</strong>
+Distribution and governance layer
+Public proposals platform across five categories: SIP, CIP, EIP, CMIP, PIP. Startup ideas, content, events, community, product.
+ 
+`Founder`
+ 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong>🛡️ Shroud Network</strong>
+Privacy-as-an-API infrastructure
+B2B-first, targeting crypto-native protocols and traditional financial institutions. Confidential state and shielded transfers as composable primitives.
+ 
+`Co-Founder & CTO`
+ 
+</td>
+<td width="50%" valign="top">
+<strong>🌀 Genshi Framework</strong>
+Open-source Rust ZK proving stack
+PLONK-KZG · BN254 / Grumpkin · Poseidon2. One circuit, dual-VM verification on EVM and Solana.
+ 
+`Creator`
