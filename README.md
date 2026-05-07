@@ -123,3 +123,39 @@ PLONK-KZG · BN254 / Grumpkin · Poseidon2. One circuit, dual-VM verification on
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
  
 </div>
+
+## Achievements
+ 
+<div align="center">
+<table>
+<thead>
+<tr>
+<th>Competition</th>
+<th>Result</th>
+<th>Project</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🏆 <b>Avalanche Build Games</b></td>
+<td>Top 60 / 1,100 + Grant Winner</td>
+<td>Shroud Network</td>
+</tr>
+<tr>
+<td>🥇 <b>EthGlobal Agentic Ethereum</b></td>
+<td>Base & Coinbase track winner</td>
+<td>S.Y.N.X.</td>
+</tr>
+<tr>
+<td>🥈 <b>Polkadot WTH</b></td>
+<td>Runner Up</td>
+<td>PixelProof</td>
+</tr>
+<tr>
+<td>🏆 <b>Arweave India HackerHouse #2</b></td>
+<td>Cohort Winner</td>
+<td>aoVest</td>
+</tr>
+</tbody>
+</table>
+</div>
