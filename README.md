@@ -13,7 +13,11 @@ Founder @ Norvyx Capital & Norvyx Proposals &nbsp;·&nbsp; Co-Founder & CTO @ Sh
  
 ## About
  
-I build privacy infrastructure for public blockchains, capital matching infrastructure for founders and investors, and grow developer ecosystems from the ground up. Architecture-first across the board. AI-native end to end.
+Building Norvyx Capital, a two-sided matching platform that routes founders to the grants, accelerators and investors that actually fit. Anchored by Saturn, a learned ranker that scores founder and investor fit on current data, historical patterns and behavioral signals. Building Norvyx Proposals alongside it, a public proposals platform across five categories that handles distribution and governance for the ecosystem.
+ 
+Co-founding Shroud Network, a privacy-as-an-API layer for crypto-native protocols and traditional financial institutions. Built on Genshi, a Rust ZK proving framework that verifies one circuit on both EVM and Solana.
+ 
+Architecture-first. AI-native end to end.
  
 ```yaml
 focus:       AI · ZK cryptography · Privacy infra · Capital matching
